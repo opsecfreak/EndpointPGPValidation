@@ -1,8 +1,6 @@
 Secure Data Transmission Using PGP Encryption
 
-
-This document provides an understanding of how using PGP (Pretty Good Privacy) encryption for POST requests enhances data security in server-to-server communication. The document is tailored for a setup consisting of a dedicated server with virtual servers, which host various containers for web services and databases.
-What is PGP?
+This document is an outline of the EndpointPGPValidation Project and its usage, functionality, use cases, and explanation of its functionality. 
 
 Pretty Good Privacy (PGP) is a data encryption and decryption program that provides cryptographic privacy and authentication for data communication. PGP uses a combination of symmetric-key cryptography and public-key cryptography.
 Components
@@ -28,7 +26,7 @@ Non-Repudiation
     Verified Source: The recipient can be certain that the data was indeed sent by the claimed source.
 
 Steps to Ensure Security
-Setup
+
 PHP Server
 
     Install GnuPG and PHP-GnuPG: Enables the PHP server to use the GnuPG cryptographic software.
