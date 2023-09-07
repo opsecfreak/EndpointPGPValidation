@@ -1,5 +1,5 @@
-**Secure Data Transmission Using PGP Encryption
-**Overview
+Secure Data Transmission Using PGP Encryption
+
 
 This document provides an understanding of how using PGP (Pretty Good Privacy) encryption for POST requests enhances data security in server-to-server communication. The document is tailored for a setup consisting of a dedicated server with virtual servers, which host various containers for web services and databases.
 What is PGP?
